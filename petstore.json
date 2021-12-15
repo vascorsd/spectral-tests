@@ -26,6 +26,7 @@
   "paths": {
     "/pets": {
       "get": {
+        "tags": [],
         "description": "Returns all pets from the system that the user has access to",
         "operationId": "findPets",
         "produces": [
